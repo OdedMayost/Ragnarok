@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RagnarokApp</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Name">Name</string>
+    <string name="Phone_Number">Phone Number</string>
+    <string name="Computer_ID">Computer ID</string>
+</resources>
